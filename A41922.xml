@@ -114,7 +114,7 @@
    <text xml:lang="unk">
       <body>
          <div type="text">
-            <pb facs="tcp:32081:0001"/>
+            <pb facs="tcp:32081:1"/>
             <!-- PDF PAGE 4 -->
             <head>
                <hi>Great News from</hi> Lymerick <hi>in</hi> IRELAND.</head>
